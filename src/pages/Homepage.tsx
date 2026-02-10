@@ -37,10 +37,7 @@ export const Homepage = () => (
          Okayyyy this is fun.
         </p>
         <p className="copy">
-          Aliquam sollicitudin libero vel diam cursus, ut egestas ex
-          scelerisque. Nullam vestibulum metus interdum, dictum erat vel, luctus
-          elit. Nullam aliquam ante elit, mollis aliquet nulla efficitur
-          molestie. Praesent a tempus mi.
+          Let's see if this works...
         </p>
       </div>
     </div>
