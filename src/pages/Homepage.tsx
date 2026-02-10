@@ -3,7 +3,7 @@ import { PageLayout } from "../components/PageLayout";
 
 const byline = [
   {
-    name: "This is not a name",
+    name: "Chloe Rogers",
     url: "https://www.latimes.com/people/nobody",
   },
 ];
@@ -12,7 +12,7 @@ export const Homepage = () => (
   <PageLayout>
     <div>
       <div className="container">
-        <h1 className="headline">This is not a headline</h1>
+        <h1 className="headline">This is not a headline ok</h1>
         <div className="attribution">
           <p className="byline">
             By{" "}
@@ -34,9 +34,7 @@ export const Homepage = () => (
 
       <div className="container">
         <p className="copy">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam
-          pellentesque luctus magna sed auctor. Cras ullamcorper urna mattis
-          lectus sagittis, quis vehicula dui vestibulum.
+         Okayyyy this is fun.
         </p>
         <p className="copy">
           Aliquam sollicitudin libero vel diam cursus, ut egestas ex
