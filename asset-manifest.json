@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/week2thecity/static/css/main.6170f879.css",
+    "main.js": "/week2thecity/static/js/main.484f15dd.js",
+    "static/media/logo.svg": "/week2thecity/static/media/logo.b88f4d385bfde54277c96f13273a42fd.svg",
+    "index.html": "/week2thecity/index.html",
+    "static/media/instagram.svg": "/week2thecity/static/media/instagram.9c2f6b1e20461d38ae1cd8464c343728.svg",
+    "static/media/twitter.svg": "/week2thecity/static/media/twitter.1267c54e37b5972b56fe43ccd2573171.svg",
+    "static/media/facebook.svg": "/week2thecity/static/media/facebook.9bf59636f6aff17ef711c37ba5bb21c7.svg",
+    "main.6170f879.css.map": "/week2thecity/static/css/main.6170f879.css.map",
+    "main.484f15dd.js.map": "/week2thecity/static/js/main.484f15dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6170f879.css",
+    "static/js/main.484f15dd.js"
+  ]
+}
